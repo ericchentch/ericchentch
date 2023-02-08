@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 My certifications:
-  - JavaScript Algorithms and Data Structures: https://www.freecodecamp.org/certification/ericchentch/javascript-algorithms-and-data-structures
+  > [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ericchentch/javascript-algorithms-and-data-structures)
