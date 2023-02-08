@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My certifications:
+  - JavaScript Algorithms and Data Structures: https://www.freecodecamp.org/certification/ericchentch/javascript-algorithms-and-data-structures
