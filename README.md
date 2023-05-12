@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im Eric Chen (My Vietnamese name is Tran Viet Hai Linh). I have been worked as a developer since 2019. Now, my position is full-stack developer. Java (Core, Spring boot), JavaScript, TypeScript(React, Next, Nest) is my technical skills. I also have experiences in deployment with Azure, Railway and Azure DevOps.
+I'm Eric Chen (My Vietnamese name is Tran Viet Hai Linh). I have been worked as a developer since 2019. Now, my position is full-stack developer. Java (Core, Spring boot), JavaScript, TypeScript(React, Next, Nest) is my technical skills. I also have experiences in deployment with Azure, Railway and Azure DevOps.
 
 Contact me:
  - Email: ericchen.tch@gmail.com
